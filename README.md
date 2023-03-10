@@ -28,6 +28,7 @@ add packages to the list.
   - [R Packages](#r-packages)
   - [Miscellaneous](#miscellaneous)
 - [Release notes](#release-notes)
+- [Community projects](#community-projects)
 - [Community posts](#community-posts)
 
 ## Official resources
@@ -50,6 +51,10 @@ add packages to the list.
 ## Release notes
 
 - [webR 0.1.0 has been released](https://www.tidyverse.org/blog/2023/03/webr-0-1-0/)
+
+## Community projects
+
+- [webR-quarto-demos](https://github.com/coatless-r-n-d/webR-quarto-demos) - Experiments with generating a standalone Quarto document using webR.
 
 ## Community posts
 
