@@ -23,12 +23,15 @@ add packages to the list.
 
 <hr>
 
+## Contents <!-- omit in toc -->
+
 - [Official resources](#official-resources)
   - [Core](#core)
   - [R Packages](#r-packages)
   - [Miscellaneous](#miscellaneous)
 - [Release notes](#release-notes)
 - [Community projects](#community-projects)
+- [Community demos](#community-demos)
 - [Community posts](#community-posts)
 
 ## Official resources
@@ -53,6 +56,10 @@ add packages to the list.
 - [webR 0.1.0 has been released](https://www.tidyverse.org/blog/2023/03/webr-0-1-0/)
 
 ## Community projects
+
+[quarto-webr](https://github.com/coatless/quarto-webr) - Quarto extension to enable webR code cell in a Quarto HTML document.
+
+## Community demos
 
 - [webr-experiments](https://github.com/hrbrmstr/webr-experiments) - hrbrmstr's WebR experiments.
 - [webR-quarto-demos](https://github.com/coatless-r-n-d/webR-quarto-demos) - Experiments with generating a standalone Quarto document using webR.
