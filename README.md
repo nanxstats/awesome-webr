@@ -54,6 +54,7 @@ add packages to the list.
 
 ## Community projects
 
+- [webr-experiments](https://github.com/hrbrmstr/webr-experiments) - hrbrmstr's WebR experiments.
 - [webR-quarto-demos](https://github.com/coatless-r-n-d/webR-quarto-demos) - Experiments with generating a standalone Quarto document using webR.
 
 ## Community posts
