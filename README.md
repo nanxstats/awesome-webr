@@ -19,7 +19,7 @@ add packages to the list.
 <hr>
 
 - See also: [awesome-shiny-extensions](https://github.com/nanxstats/awesome-shiny-extensions).
-- Please send pull requests: [contributing guide](https://github.com/nanxstats/awesome-webr/blob/main/CONTRIBUTING.md) and [code of conduct](https://github.com/nanxstats/awesome-webr/blob/main/CODE-OF-CONDUCT.md).
+- Please send pull requests: [contributing guide](.github/CONTRIBUTING.md) and [code of conduct](.github/CODE-OF-CONDUCT.md).
 
 <hr>
 
