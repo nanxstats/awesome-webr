@@ -27,7 +27,7 @@ add packages to the list.
 
 - [Official resources](#official-resources)
   - [Core](#core)
-  - [R Packages](#r-packages)
+  - [R packages](#r-packages)
   - [Miscellaneous](#miscellaneous)
 - [Release notes](#release-notes)
 - [Community projects](#community-projects)
@@ -41,7 +41,7 @@ add packages to the list.
 - [webr](https://github.com/r-wasm/webr) - webR: R in the browser.
 - [webR documentation](https://docs.r-wasm.org/webr/latest/) - Official documentation site.
 
-### R Packages
+### R packages
 
 - [webr-repo](https://github.com/r-wasm/webr-repo) - Build R packages for
   WebAssembly and create a CRAN like repo for distribution.
