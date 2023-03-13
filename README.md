@@ -7,9 +7,9 @@
 
 # Awesome WebR <!-- omit in toc -->
 
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+[![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome)
 
-A curated list of awesome resources for learning [WebR](https://r-wasm.org/),
+A curated list of awesome resources for learning [WebR](https://github.com/r-wasm/webr),
 a version of the statistical language R compiled for the browser and
 Node.js using WebAssembly.
 
@@ -39,7 +39,7 @@ add packages to the list.
 ### Core
 
 - [webr](https://github.com/r-wasm/webr) - webR: R in the browser.
-- [webR documentation](https://docs.r-wasm.org/webr/) - Official documentation site.
+- [webR documentation](https://docs.r-wasm.org/webr/latest/) - Official documentation site.
 
 ### R Packages
 
