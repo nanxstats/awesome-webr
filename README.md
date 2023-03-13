@@ -5,7 +5,7 @@
   <br>
 </p>
 
-# Awesome webR <!-- omit in toc -->
+# Awesome WebR <!-- omit in toc -->
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
@@ -66,4 +66,4 @@ add packages to the list.
 
 ## Community posts
 
-- [WebR IS HERE!](https://rud.is/b/2023/03/09/webr-is-here/) by Bob Rudis, with demos.
+- [WebR IS HERE!](https://rud.is/b/2023/03/09/webr-is-here/) - Written by Bob Rudis, with demos.
