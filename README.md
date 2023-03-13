@@ -9,7 +9,7 @@
 
 [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome)
 
-A curated list of awesome resources for learning [WebR](https://github.com/r-wasm/webr),
+A curated list of awesome resources for learning WebR,
 a version of the statistical language R compiled for the browser and
 Node.js using WebAssembly.
 
