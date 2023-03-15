@@ -5,7 +5,7 @@
   <br>
 </p>
 
-# Awesome WebR <!-- omit in toc -->
+# Awesome WebR
 
 [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome)
 
@@ -23,7 +23,7 @@ add packages to the list.
 
 <hr>
 
-## Contents <!-- omit in toc -->
+## Contents
 
 - [Official resources](#official-resources)
   - [Core](#core)
