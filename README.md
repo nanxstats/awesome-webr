@@ -25,23 +25,23 @@ add packages to the list.
 
 ## Contents
 
-- [Official resources](#official-resources)
+- [Official Resources](#official-resources)
   - [Core](#core)
-  - [R packages](#r-packages)
+  - [R Packages](#r-packages)
   - [Miscellaneous](#miscellaneous)
-- [Release notes](#release-notes)
-- [Community projects](#community-projects)
-- [Community demos](#community-demos)
-- [Community posts](#community-posts)
+- [Release Notes](#release-notes)
+- [Community Extensions](#community-extensions)
+- [Community Demos](#community-demos)
+- [Community Posts](#community-posts)
 
-## Official resources
+## Official Resources
 
 ### Core
 
 - [webr](https://github.com/r-wasm/webr) - webR: R in the browser.
 - [webR documentation](https://docs.r-wasm.org/webr/latest/) - Official documentation site.
 
-### R packages
+### R Packages
 
 - [webr-repo](https://github.com/r-wasm/webr-repo) - Build R packages for
   WebAssembly and create a CRAN like repo for distribution.
@@ -51,20 +51,21 @@ add packages to the list.
 
 - [jupyterlite-webr-kernel](https://github.com/r-wasm/jupyterlite-webr-kernel) - webR kernel for JupyterLite.
 
-## Release notes
+## Release Notes
 
 - [webR 0.1.0 has been released](https://www.tidyverse.org/blog/2023/03/webr-0-1-0/)
 
-## Community projects
+## Community Extensions
 
 - [quarto-webr](https://github.com/coatless/quarto-webr) - Quarto extension to enable webR code cell in a Quarto HTML document.
 
-## Community demos
+## Community Demos
 
 - [webr-experiments](https://github.com/hrbrmstr/webr-experiments) - WebR experiments from @hrbrmstr.
 - [webr-app](https://github.com/hrbrmstr/webr-app) - WebR starter app with minimal HTML, JS, and CSS.
 - [webR-quarto-demos](https://github.com/coatless-r-n-d/webR-quarto-demos) - Experiments with generating a standalone Quarto document using webR.
+- [reefr-template](https://github.com/hrbrmstr/reefr-template) - Markdown-enabled lightweight reactive environment for webR apps.
 
-## Community posts
+## Community Posts
 
 - [WebR IS HERE!](https://rud.is/b/2023/03/09/webr-is-here/) - Written by Bob Rudis, with demos.
