@@ -65,6 +65,7 @@ add packages to the list.
 - [webr-app](https://github.com/hrbrmstr/webr-app) - WebR starter app with minimal HTML, JS, and CSS.
 - [webR-quarto-demos](https://github.com/coatless-r-n-d/webR-quarto-demos) - Experiments with generating a standalone Quarto document using webR.
 - [reefr-template](https://github.com/hrbrmstr/reefr-template) - Markdown-enabled lightweight reactive environment for webR apps.
+- [lit-webr](https://github.com/hrbrmstr/lit-webr) - An example of using WebR with Lit components.
 
 ## Community Posts
 
